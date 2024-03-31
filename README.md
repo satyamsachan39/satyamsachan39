@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IRD34MhBxk1Avd5C3o6aQmTCRbaN51CZ/view?usp=sharing](https://drive.google.com/file/d/1IRD34MhBxk1Avd5C3o6aQmTCRbaN51CZ/view?usp=sharing)
 
-- ⚡ Fun fact **I have a crazy solution of all the problem.**
+- ⚡ Fun fact **I have a crazy solution of all the problem...go and sleep.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
