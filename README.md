@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Satyam Sachan</h1>
 <h3 align="center">A passionate frontend developer and Graphic Designer from India.</h3>
-<img align="right" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Coading"with="400">
+<img align="right" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Coading"width="1080" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsachan39&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsachan39" /> </p>
 
